@@ -4,6 +4,7 @@ require:
   - src.optifine
 
 resource_pack:
+  zipped: true
   load:
     assets/the3gg/optifine_biome_colors: optifine_biome_colors
 
