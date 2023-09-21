@@ -1,0 +1,13 @@
+name: datapack-biome-colors
+
+require:
+  - src.optifine
+
+resource_pack:
+  load:
+    assets/the3gg/optifine_biome_colors: optifine_biome_colors
+
+pipeline:
+  - src.biomes
+
+output: out
